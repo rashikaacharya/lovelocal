@@ -17,8 +17,6 @@ int lengthOfLastWord(char *s) {
     }
 
     return length;
-}
-
 int main() {
     // Assuming the maximum length of the input is 100 characters
     char input[100];
